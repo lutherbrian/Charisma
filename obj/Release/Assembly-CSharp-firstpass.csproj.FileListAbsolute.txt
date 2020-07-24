@@ -1,0 +1,2 @@
+C:\Users\Brian\Desktop\Charisma\obj\Release\Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+C:\Users\Brian\Desktop\Charisma\obj\Release\Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache

@@ -1,0 +1,790 @@
+fileFormatVersion: 2
+guid: fe4a1dc31fcfc5b4eb2b98b07b38a027
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: SitDown
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: SitDown
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 95
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: ChildIdleAnim01(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tim_rig_:TimGRP
+      parentName: ChildIdleAnim01(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tim_rig_:GeometryGRP
+      parentName: tim_rig_:TimGRP
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tim_rig_:face_tim
+      parentName: tim_rig_:GeometryGRP
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tim_rig_:polySurface67
+      parentName: tim_rig_:GeometryGRP
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tim_rig_:polySurface70
+      parentName: tim_rig_:GeometryGRP
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tim_rig_:polySurface73
+      parentName: tim_rig_:GeometryGRP
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tim_rig_:polySurface74
+      parentName: tim_rig_:GeometryGRP
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tim_rig_:polySurface82
+      parentName: tim_rig_:GeometryGRP
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tim_rig_:buttonsGRP
+      parentName: tim_rig_:GeometryGRP
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 3.1382074, y: 3.1382074, z: 3.1382074}
+    - name: tim_rig_:pasted__pSphere9
+      parentName: tim_rig_:buttonsGRP
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tim_rig_:pasted__pSphere10
+      parentName: tim_rig_:buttonsGRP
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tim_rig_:pasted__pSphere11
+      parentName: tim_rig_:buttonsGRP
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tim_rig_:pasted__pSphere14
+      parentName: tim_rig_:buttonsGRP
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tim_rig_:pasted__pSphere15
+      parentName: tim_rig_:buttonsGRP
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tim_rig_:pasted__pSphere16
+      parentName: tim_rig_:buttonsGRP
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tim_rig_:pasted__pSphere17
+      parentName: tim_rig_:buttonsGRP
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tim_rig_:pasted__pSphere18
+      parentName: tim_rig_:buttonsGRP
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tim_rig_:mouthGRP
+      parentName: tim_rig_:GeometryGRP
+      position: {x: 0.0004735891, y: 0.6390427, z: 0.04547538}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 3.9946263, y: 3.9946263, z: 4.3680325}
+    - name: tim_rig_:tounge
+      parentName: tim_rig_:mouthGRP
+      position: {x: -0.0004735891, y: -0.121171795, z: -0.009097475}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tim_rig_:Hair_GRP
+      parentName: tim_rig_:GeometryGRP
+      position: {x: -4.556529e-11, y: 0.6190189, z: -0.022996215}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tim_rig_:tim_manHair
+      parentName: tim_rig_:Hair_GRP
+      position: {x: 4.556529e-11, y: -0.6190189, z: 0.022996215}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tim_rig_:LeftEye_GRP
+      parentName: tim_rig_:GeometryGRP
+      position: {x: -0.04058523, y: 0.7069648, z: 0.04514369}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tim_rig_:LeftEye
+      parentName: tim_rig_:LeftEye_GRP
+      position: {x: 0.04058523, y: -0.7069648, z: -0.04514369}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tim_rig_:RightEye_GRP
+      parentName: tim_rig_:GeometryGRP
+      position: {x: 0.040585235, y: 0.7069648, z: 0.04514369}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tim_rig_:RightEye
+      parentName: tim_rig_:RightEye_GRP
+      position: {x: -0.040585235, y: -0.7069648, z: -0.04514369}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tim_rig_:teeth_bottom
+      parentName: tim_rig_:GeometryGRP
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tim_rig_:RootGRP
+      parentName: tim_rig_:TimGRP
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 5.3006454, y: 5.3006454, z: 5.3006454}
+    - name: tim_rig_:Root
+      parentName: tim_rig_:RootGRP
+      position: {x: 0.0008961548, y: 0, z: -0.41206813}
+      rotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: 6.123234e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tim_rig_:CentreOfGravity
+      parentName: tim_rig_:Root
+      position: {x: -1.3877787e-19, y: 0.24295652, z: -0.18931276}
+      rotation: {x: -6.1232336e-17, y: -1, z: 6.123234e-17, w: 6.123235e-17}
+      scale: {x: 1, y: 0.9999998, z: 0.9999998}
+    - name: tim_rig_:curve3
+      parentName: tim_rig_:CentreOfGravity
+      position: {x: -0, y: -0.31380254, z: 0.027252361}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tim_rig_:group13
+      parentName: tim_rig_:CentreOfGravity
+      position: {x: -0.0025, y: 0.25697836, z: -0.038727637}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tim_rig_:clusterNeck
+      parentName: tim_rig_:group13
+      position: {x: 0.0025, y: -0.002244421, z: 0.00003768444}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tim_rig_:group14
+      parentName: tim_rig_:CentreOfGravity
+      position: {x: -0.0025, y: 0.18729948, z: -0.032117635}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tim_rig_:clusterChest
+      parentName: tim_rig_:group14
+      position: {x: 0.0025, y: -0.002578839, z: 0.009364447}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tim_rig_:group15
+      parentName: tim_rig_:CentreOfGravity
+      position: {x: -0.0025, y: 0.119173445, z: -0.023827637}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tim_rig_:clusterAbs
+      parentName: tim_rig_:group15
+      position: {x: 0.0025, y: -0.026444746, z: 0.030615862}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tim_rig_:group16
+      parentName: tim_rig_:CentreOfGravity
+      position: {x: -0.0025, y: 0.046996936, z: -0.022487637}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tim_rig_:clusterHip
+      parentName: tim_rig_:group16
+      position: {x: 0.0025, y: -0.0025, z: 0.027598547}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tim_rig_:hip
+      parentName: tim_rig_:CentreOfGravity
+      position: {x: -6.708248e-18, y: 0.11998886, z: 0.22984949}
+      rotation: {x: -0.014294862, y: -6.617445e-24, z: 6.617445e-24, w: 0.99989784}
+      scale: {x: 1, y: 1, z: 1.0000005}
+    - name: tim_rig_:HipsOverride
+      parentName: tim_rig_:hip
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.0017302986, y: -6.8172555e-24, z: 1.3127338e-23, w: 0.9999985}
+      scale: {x: 1, y: 1.0000005, z: 1.0000002}
+    - name: tim_rig_:RightHip
+      parentName: tim_rig_:HipsOverride
+      position: {x: 0.0284743, y: -0.024203533, z: -0.007704654}
+      rotation: {x: 0.012494351, y: 0.0024476848, z: -0.03440874, w: 0.99932677}
+      scale: {x: 1.0000001, y: 1.000001, z: 1.0000006}
+    - name: tim_rig_:RightKnee
+      parentName: tim_rig_:RightHip
+      position: {x: 0.018172245, y: -0.13146897, z: 0.016981924}
+      rotation: {x: -0.000000006519257, y: -0.0000000046566124, z: 0.0000000024556355,
+        w: 1}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000013}
+    - name: tim_rig_:RightAnkle
+      parentName: tim_rig_:RightKnee
+      position: {x: 0.021797437, y: -0.15627961, z: -0.025826791}
+      rotation: {x: -0.0031079522, y: -0.06201237, z: -0.010379149, w: 0.99801666}
+      scale: {x: 1.0000017, y: 1.0000006, z: 1.0000004}
+    - name: tim_rig_:RightFoot
+      parentName: tim_rig_:RightAnkle
+      position: {x: 0.019370634, y: -0.03867786, z: 0.04945135}
+      rotation: {x: 0.013053061, y: -0.0072727976, z: 0.043974876, w: 0.9989209}
+      scale: {x: 0.9999995, y: 0.9999998, z: 0.99999994}
+    - name: tim_rig_:RightToe
+      parentName: tim_rig_:RightFoot
+      position: {x: 0.016295802, y: 0.0011357856, z: 0.058766965}
+      rotation: {x: -0, y: -0, z: 7.130437e-10, w: 1}
+      scale: {x: 1.0000008, y: 1, z: 1.0000007}
+    - name: tim_rig_:LeftHip
+      parentName: tim_rig_:HipsOverride
+      position: {x: -0.028474301, y: -0.02420327, z: -0.0077046254}
+      rotation: {x: 0.012560576, y: 0.0005298798, z: -0.034491893, w: 0.99932593}
+      scale: {x: 1.0000008, y: 1.0000006, z: 1.0000004}
+    - name: tim_rig_:LeftKnee
+      parentName: tim_rig_:LeftHip
+      position: {x: -0, y: -0.1327238, z: 0.016943464}
+      rotation: {x: 0.000000005587935, y: 0.0000000031432132, z: 0.000000008912592,
+        w: 1}
+      scale: {x: 1.0000008, y: 1.0000001, z: 1.0000007}
+    - name: tim_rig_:LeftAnkle
+      parentName: tim_rig_:LeftKnee
+      position: {x: -0, y: -0.15778515, z: -0.025872948}
+      rotation: {x: 0.0007624584, y: -0.059404593, z: -0.011132747, w: 0.9981717}
+      scale: {x: 1.0000006, y: 1.0000011, z: 1.0000002}
+    - name: tim_rig_:LeftFoot
+      parentName: tim_rig_:LeftAnkle
+      position: {x: -0, y: -0.04002796, z: 0.052099884}
+      rotation: {x: -0.00029633127, y: -0.008590664, z: 0.045644335, w: 0.99892074}
+      scale: {x: 0.9999995, y: 0.99999976, z: 1.0000001}
+    - name: tim_rig_:LeftToe
+      parentName: tim_rig_:LeftFoot
+      position: {x: -0, y: 0, z: 0.060994986}
+      rotation: {x: -0, y: -0, z: -0.000000005034735, w: 1}
+      scale: {x: 0.99999964, y: 1, z: 0.99999994}
+    - name: tim_rig_:back1
+      parentName: tim_rig_:hip
+      position: {x: -0, y: 0.05469651, z: 0.003061603}
+      rotation: {x: 0.006596525, y: 6.4790038e-24, z: 6.667235e-24, w: 0.99997824}
+      scale: {x: 1, y: 0.99999756, z: 0.9999974}
+    - name: tim_rig_:back2
+      parentName: tim_rig_:back1
+      position: {x: -0, y: 0.050333545, z: -0.0035208592}
+      rotation: {x: -0.01663227, y: -1.3014393e-23, z: -9.8366234e-26, w: 0.9998617}
+      scale: {x: 1.0000008, y: 0.9999996, z: 1.000001}
+    - name: tim_rig_:back3
+      parentName: tim_rig_:back2
+      position: {x: -0, y: 0.05809493, z: -0.007405771}
+      rotation: {x: 0.06875689, y: 5.85683e-24, z: -7.3557974e-24, w: 0.99763346}
+      scale: {x: 1, y: 1.0000043, z: 1.0000027}
+    - name: tim_rig_:back4
+      parentName: tim_rig_:back3
+      position: {x: -0, y: 0.04688062, z: -0.01575851}
+      rotation: {x: -0, y: 3.944304e-31, z: 2.218671e-31, w: 1}
+      scale: {x: 1, y: 1.0000008, z: 1}
+    - name: tim_rig_:neck
+      parentName: tim_rig_:back4
+      position: {x: -0, y: 0.01556649, z: 0.017326044}
+      rotation: {x: -0.0802326, y: 2.39411e-25, z: -6.0818367e-24, w: 0.99677616}
+      scale: {x: 1, y: 1.0000014, z: 1.0000005}
+    - name: tim_rig_:basehead
+      parentName: tim_rig_:neck
+      position: {x: -4.556529e-11, y: 0.035502963, z: 0.007619889}
+      rotation: {x: 0.035831884, y: -2.3286656e-25, z: 6.3760787e-24, w: 0.9993579}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: tim_rig_:nurbsToPoly2
+      parentName: tim_rig_:basehead
+      position: {x: 7.4505804e-11, y: 0.08794594, z: 0.06813991}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0199115, y: 1.0199115, z: 1.0199115}
+    - name: tim_rig_:polySurface83
+      parentName: tim_rig_:nurbsToPoly2
+      position: {x: -0.040879354, y: -0.00033993224, z: 0.0016423577}
+      rotation: {x: -0.16352272, y: -0.10025127, z: -0.11065185, w: 0.97517496}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tim_rig_:polySurface84
+      parentName: tim_rig_:nurbsToPoly2
+      position: {x: -0.039792903, y: -0.000000038146975, z: -0.0000000029802318}
+      rotation: {x: 0.4856834, y: -0.07307826, z: 0.0035883514, w: 0.87106735}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tim_rig_:nurbsToPoly3
+      parentName: tim_rig_:basehead
+      position: {x: 4.556529e-11, y: 0.0879459, z: 0.06813991}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tim_rig_:eyelidRU
+      parentName: tim_rig_:nurbsToPoly3
+      position: {x: 0.040582623, y: -0.00020866324, z: 0.00025957648}
+      rotation: {x: -0.14463204, y: 0.0012612009, z: 0.09527055, w: 0.98488754}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tim_rig_:eyelidRD
+      parentName: tim_rig_:nurbsToPoly3
+      position: {x: 0.04058876, y: -0.000000038906542, z: -0.0000000030395728}
+      rotation: {x: 0.56859046, y: -0.001140596, z: 0.0067858663, w: 0.82259196}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tim_rig_:nurbsSphere3
+      parentName: tim_rig_:basehead
+      position: {x: 0.040585235, y: 0.087945916, z: 0.06813991}
+      rotation: {x: 0.020908121, y: -0.016650634, z: -0.00034826237, w: 0.99964267}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tim_rig_:nurbsSphere4
+      parentName: tim_rig_:basehead
+      position: {x: -0.040585235, y: 0.087945916, z: 0.06813991}
+      rotation: {x: 0.018527498, y: 0.013871285, z: 0.0007601885, w: 0.99973184}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tim_rig_:gum_top
+      parentName: tim_rig_:basehead
+      position: {x: 0.0004738462, y: 0.030298557, z: 0.09837982}
+      rotation: {x: 0.06283883, y: -0.0000004060931, z: -0.000003303429, w: 0.9980237}
+      scale: {x: 10.12072, y: 10.133775, z: 11.05252}
+    - name: tim_rig_:Teeth_top
+      parentName: tim_rig_:basehead
+      position: {x: 4.556529e-11, y: -0.6190189, z: 0.022996215}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tim_rig_:polySurface85
+      parentName: tim_rig_:basehead
+      position: {x: 4.556529e-11, y: -0.6190189, z: 0.022996215}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tim_rig_:skull
+      parentName: tim_rig_:basehead
+      position: {x: -0, y: 0.1835039, z: 0.051484056}
+      rotation: {x: -0, y: -0, z: 6.902532e-31, w: 1}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: tim_rig_:Jaw
+      parentName: tim_rig_:basehead
+      position: {x: 3.9209382e-11, y: 0.009183449, z: 0.03438859}
+      rotation: {x: 0.17331658, y: -0.060832597, z: 0.010726428, w: 0.9829272}
+      scale: {x: 1.0000023, y: 1.0000001, z: 1.0000033}
+    - name: tim_rig_:transform5
+      parentName: tim_rig_:Jaw
+      position: {x: -0.0014180727, y: 0.018707437, z: 0.010756426}
+      rotation: {x: 0.0000031234727, y: 1, z: -3.5906597e-12, w: 0.0000011495533}
+      scale: {x: 3.9946263, y: 1e-12, z: 4.3680325}
+    - name: tim_rig_:JawTip
+      parentName: tim_rig_:Jaw
+      position: {x: -0, y: 0.0020413029, z: 0.05424033}
+      rotation: {x: -0.000000037252903, y: -6.617446e-24, z: -2.8596208e-30, w: 1}
+      scale: {x: 1.0000005, y: 1, z: 1.0000002}
+    - name: tim_rig_:LeftEye_Joint
+      parentName: tim_rig_:basehead
+      position: {x: -0.040585235, y: 0.087945916, z: 0.06813991}
+      rotation: {x: -0.0000000037252899, y: 7.2759565e-10, z: 8.6736166e-18, w: 1}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.0000004}
+    - name: tim_rig_:RightEye_Joint
+      parentName: tim_rig_:basehead
+      position: {x: 0.040585235, y: 0.087945916, z: 0.06813991}
+      rotation: {x: -0, y: 2.32717e-25, z: -5.2041704e-16, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1.0000002}
+    - name: tim_rig_:LeftClavical
+      parentName: tim_rig_:back4
+      position: {x: -0.024776807, y: -0.004528965, z: 0.0077337855}
+      rotation: {x: -0.04362464, y: 0.006596257, z: -0.00081764156, w: 0.99902594}
+      scale: {x: 1.0000001, y: 0.9999984, z: 0.9999995}
+    - name: tim_rig_:LeftShoulder
+      parentName: tim_rig_:LeftClavical
+      position: {x: -0.03991593, y: 0.005080862, z: 0}
+      rotation: {x: -0.0008398554, y: -0.0066260844, z: 0.0005235614, w: 0.9999776}
+      scale: {x: 0.9999996, y: 1.0000008, z: 1.0000007}
+    - name: tim_rig_:LeftElbow
+      parentName: tim_rig_:LeftShoulder
+      position: {x: -0.12050517, y: -0.00025369378, z: -0.0075615114}
+      rotation: {x: 0.04551018, y: 0.0006842543, z: 0.001955842, w: 0.9989618}
+      scale: {x: 1.0000002, y: 1.0000001, z: 0.99999976}
+    - name: tim_rig_:LeftForearm
+      parentName: tim_rig_:LeftElbow
+      position: {x: -0.051357787, y: 0.0006100956, z: 0.0062067495}
+      rotation: {x: -0.000000014901158, y: -0.00000004848697, z: -0.000000019863359,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1.0000004}
+    - name: tim_rig_:LeftWrist
+      parentName: tim_rig_:LeftForearm
+      position: {x: -0.053843305, y: 0.00058866595, z: -0.000024542214}
+      rotation: {x: -0.027207032, y: -0.00071227475, z: -0.0018482255, w: 0.99962795}
+      scale: {x: 1.0000002, y: 1.0000007, z: 0.9999999}
+    - name: tim_rig_:joint17
+      parentName: tim_rig_:LeftWrist
+      position: {x: -0.025238283, y: -0.0041083544, z: 0.023603262}
+      rotation: {x: -0.071771435, y: 0.02946626, z: -0.043610465, w: 0.9960315}
+      scale: {x: 1.0000006, y: 1, z: 1.0000002}
+    - name: tim_rig_:joint18
+      parentName: tim_rig_:joint17
+      position: {x: -0.014490563, y: -0.00555751, z: 0.014135712}
+      rotation: {x: 0.03716773, y: -0.00034722296, z: 0.037964284, w: 0.9985876}
+      scale: {x: 1.0000001, y: 0.9999998, z: 0.99999994}
+    - name: tim_rig_:joint19
+      parentName: tim_rig_:joint18
+      position: {x: -0.013073225, y: -0.0015319741, z: 0.012784983}
+      rotation: {x: 0.012722191, y: 0.17340928, z: 0.033788104, w: 0.98418784}
+      scale: {x: 0.9999998, y: 1, z: 1.0000002}
+    - name: tim_rig_:joint20
+      parentName: tim_rig_:joint19
+      position: {x: -0.01991895, y: 0, z: 0.0074998685}
+      rotation: {x: 0.000000022351731, y: -0.000000011674041, z: 0.00000001766186,
+        w: 1}
+      scale: {x: 1.0000007, y: 1.0000001, z: 0.99999964}
+    - name: tim_rig_:joint13
+      parentName: tim_rig_:LeftWrist
+      position: {x: -0.061638482, y: 0.0022624226, z: 0.023562249}
+      rotation: {x: -0.018314628, y: -0.000003324122, z: -0.00009502005, w: 0.99983233}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: tim_rig_:joint14
+      parentName: tim_rig_:joint13
+      position: {x: -0.020804238, y: 0, z: 0.0024345384}
+      rotation: {x: 0.000000022351731, y: -0.000000023284645, z: -1.383426e-11, w: 1}
+      scale: {x: 1.0000002, y: 0.99999964, z: 0.9999998}
+    - name: tim_rig_:joint15
+      parentName: tim_rig_:joint14
+      position: {x: -0.019476308, y: 0, z: 0.0028771816}
+      rotation: {x: 0.029166326, y: -0.0065492196, z: -0.0033909231, w: 0.9995474}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.0000001}
+    - name: tim_rig_:joint16
+      parentName: tim_rig_:joint15
+      position: {x: -0.024124062, y: 0, z: 0.0030985032}
+      rotation: {x: -0.000000029802308, y: -0.000000046100446, z: 0.000000018510027,
+        w: 1}
+      scale: {x: 1, y: 1, z: 0.9999999}
+    - name: tim_rig_:joint9
+      parentName: tim_rig_:LeftWrist
+      position: {x: -0.06378146, y: 0.0016676491, z: 0.0073216218}
+      rotation: {x: -0.018177457, y: -0.0008934889, z: -0.00009181833, w: 0.9998345}
+      scale: {x: 0.99999976, y: 1, z: 1}
+    - name: tim_rig_:joint10
+      parentName: tim_rig_:joint9
+      position: {x: -0.02274803, y: 0, z: -0.00087492424}
+      rotation: {x: -0.000000029802308, y: 0.000000035040994, z: 1.09139316e-10, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: tim_rig_:joint11
+      parentName: tim_rig_:joint10
+      position: {x: -0.02274803, y: 0, z: -0.00017498486}
+      rotation: {x: -0.0025497328, y: -0.031777006, z: -0.000043437776, w: 0.9994918}
+      scale: {x: 1.0000004, y: 1.0000005, z: 0.9999998}
+    - name: tim_rig_:joint12
+      parentName: tim_rig_:joint11
+      position: {x: -0.026072742, y: 0, z: 0.00017498486}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+    - name: tim_rig_:joint5
+      parentName: tim_rig_:LeftWrist
+      position: {x: -0.06255652, y: 0.001065019, z: -0.009115907}
+      rotation: {x: -0.01710545, y: 0.08137966, z: -0.0070405533, w: 0.9965115}
+      scale: {x: 1.0000002, y: 1, z: 1.0000001}
+    - name: tim_rig_:joint6
+      parentName: tim_rig_:joint5
+      position: {x: -0.019248333, y: 0, z: -0.0040246514}
+      rotation: {x: 0.000000040978176, y: -0.000000011620836, z: -0.000000023272367,
+        w: 1}
+      scale: {x: 1.0000004, y: 1.0000001, z: 0.99999994}
+    - name: tim_rig_:joint7
+      parentName: tim_rig_:joint6
+      position: {x: -0.019248333, y: 0, z: -0.0027997578}
+      rotation: {x: -0.000000018626443, y: -0.000000008421236, z: -0.000000023459645,
+        w: 1}
+      scale: {x: 1.0000001, y: 0.99999994, z: 0.9999998}
+    - name: tim_rig_:joint8
+      parentName: tim_rig_:joint7
+      position: {x: -0.022573046, y: 0, z: -0.0036746818}
+      rotation: {x: 0.000000011175866, y: 0.000000032158813, z: 0.000000116410156,
+        w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+    - name: tim_rig_:joint1
+      parentName: tim_rig_:LeftWrist
+      position: {x: -0.058881793, y: 0.00051319157, z: -0.024154471}
+      rotation: {x: -0.016516497, y: 0.110275455, z: -0.008376732, w: 0.9937286}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: tim_rig_:joint2
+      parentName: tim_rig_:joint1
+      position: {x: -0.012423924, y: 0, z: -0.0033247122}
+      rotation: {x: 0.000000022351731, y: -0.000000010222261, z: -0.000000023439693,
+        w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1.0000001}
+    - name: tim_rig_:joint3
+      parentName: tim_rig_:joint2
+      position: {x: -0.014873711, y: 0, z: -0.0033247122}
+      rotation: {x: -0.022130257, y: 0.0016610053, z: -0.0055670734, w: 0.9997383}
+      scale: {x: 0.99999994, y: 1.0000002, z: 0.9999999}
+    - name: tim_rig_:joint4
+      parentName: tim_rig_:joint3
+      position: {x: -0.016798547, y: 0, z: -0.0040246514}
+      rotation: {x: 0.000000014901156, y: -0.0000000051222724, z: 0.000000048446946,
+        w: 1}
+      scale: {x: 1.0000004, y: 1, z: 0.9999997}
+    - name: tim_rig_:RightClavical
+      parentName: tim_rig_:back4
+      position: {x: 0.0247768, y: -0.0045290138, z: 0.0077338046}
+      rotation: {x: -0.043624625, y: -0.0065961247, z: 0.00081656966, w: 0.99902594}
+      scale: {x: 0.9999999, y: 0.9999985, z: 0.9999994}
+    - name: tim_rig_:RightShoulder
+      parentName: tim_rig_:RightClavical
+      position: {x: 0.0399159, y: 0.005081, z: -2.2204459e-17}
+      rotation: {x: 0.070935376, y: 0.0062798774, z: -0.0010667816, w: 0.9974606}
+      scale: {x: 0.9999999, y: 1.0000011, z: 1.0000005}
+    - name: tim_rig_:RightElbow
+      parentName: tim_rig_:RightShoulder
+      position: {x: 0.1204893, y: -0.001031, z: -0.0073777}
+      rotation: {x: -0.00000032782555, y: 0.00064392155, z: -0.00009687658, w: 0.9999999}
+      scale: {x: 1.0000006, y: 1.0000001, z: 1}
+    - name: tim_rig_:RightForearm
+      parentName: tim_rig_:RightElbow
+      position: {x: 0.051358, y: 0.00061, z: 0.0062067}
+      rotation: {x: 0.000000014912272, y: 0.000000043306496, z: -0.000000023741341,
+        w: 1}
+      scale: {x: 0.9999999, y: 1.0000002, z: 1.0000004}
+    - name: tim_rig_:RightWrist
+      parentName: tim_rig_:RightForearm
+      position: {x: 0.053844053, y: 0.00037999998, z: -2.539186e-10}
+      rotation: {x: -0.07694719, y: -0.0003327515, z: 0.00042185324, w: 0.9970351}
+      scale: {x: 0.9999998, y: 1.0000002, z: 0.9999999}
+    - name: tim_rig_:joint17 1
+      parentName: tim_rig_:RightWrist
+      position: {x: 0.035219185, y: -0.0054881955, z: 0.023696484}
+      rotation: {x: -0.15618582, y: 0.6913469, z: -0.0073505263, w: 0.70540166}
+      scale: {x: 1.0000008, y: 0.9999999, z: 1.0000007}
+    - name: tim_rig_:joint18 1
+      parentName: tim_rig_:joint17 1
+      position: {x: -0.012243096, y: -0.0063570663, z: 0.008008036}
+      rotation: {x: 0.15439114, y: -0.44116363, z: 0.021267142, w: 0.8837906}
+      scale: {x: 0.9999999, y: 1.0000001, z: 0.9999999}
+    - name: tim_rig_:joint19 1
+      parentName: tim_rig_:joint18 1
+      position: {x: 0.00022211538, y: -0.0015267646, z: 0.018285047}
+      rotation: {x: 0.029160554, y: -0.37207294, z: -0.02133011, w: 0.9275002}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000004}
+    - name: tim_rig_:joint20 1
+      parentName: tim_rig_:joint19 1
+      position: {x: 0.015855778, y: 0.0000081250455, z: 0.014198861}
+      rotation: {x: 0.000000016236406, y: -0, z: -0.000000009175563, w: 1}
+      scale: {x: 1.0000002, y: 1, z: 0.99999964}
+    - name: tim_rig_:joint13 1
+      parentName: tim_rig_:RightWrist
+      position: {x: 0.061638996, y: 0.002263, z: 0.0235623}
+      rotation: {x: -0.018000502, y: 0.17937326, z: -0.0033792055, w: 0.98361063}
+      scale: {x: 1.0000002, y: 1, z: 1.0000004}
+    - name: tim_rig_:joint14 1
+      parentName: tim_rig_:joint13 1
+      position: {x: 0.018605454, y: 0.000007800167, z: 0.009621334}
+      rotation: {x: 0.00000010430809, y: -0.09935287, z: 0.000000007683409, w: 0.9950523}
+      scale: {x: 1, y: 1, z: 0.9999997}
+    - name: tim_rig_:joint15 1
+      parentName: tim_rig_:joint14 1
+      position: {x: 0.018758563, y: 0.0000073385477, z: 0.0059756436}
+      rotation: {x: -0.0000000038932897, y: -0.019717969, z: -0.000000037671782, w: 0.9998056}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000005}
+    - name: tim_rig_:joint16 1
+      parentName: tim_rig_:joint15 1
+      position: {x: 0.023565866, y: 0.000009114856, z: 0.006018107}
+      rotation: {x: -0, y: -0, z: -7.5633906e-16, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: tim_rig_:joint9 1
+      parentName: tim_rig_:RightWrist
+      position: {x: 0.063782, y: 0.001668, z: 0.0073215994}
+      rotation: {x: -0.018288951, y: 0.04798767, z: -0.00097397063, w: 0.99868006}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.0000005}
+    - name: tim_rig_:joint10 1
+      parentName: tim_rig_:joint9 1
+      position: {x: 0.02272708, y: 0.000008370812, z: 0.0013102682}
+      rotation: {x: -0.000000011175866, y: -0.04648661, z: -0.000000010866637, w: 0.9989189}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.0000001}
+    - name: tim_rig_:joint11 1
+      parentName: tim_rig_:joint10 1
+      position: {x: 0.022748424, y: 0.000008739187, z: -0.00010624105}
+      rotation: {x: 0.000000032797608, y: 0.0058574546, z: 0.000000024975705, w: 0.9999829}
+      scale: {x: 0.9999995, y: 0.9999999, z: 1}
+    - name: tim_rig_:joint12 1
+      parentName: tim_rig_:joint11 1
+      position: {x: 0.026067588, y: 0.000009555567, z: 0.00055917044}
+      rotation: {x: -0, y: -0, z: -1.1241003e-15, w: 1}
+      scale: {x: 1.0000005, y: 1.0000002, z: 0.99999976}
+    - name: tim_rig_:joint5 1
+      parentName: tim_rig_:RightWrist
+      position: {x: 0.062557, y: 0.001065, z: -0.0091159}
+      rotation: {x: -0.016535359, y: -0.15496638, z: 0.008102833, w: 0.98774815}
+      scale: {x: 1.0000008, y: 1.0000001, z: 1.0000008}
+    - name: tim_rig_:joint6 1
+      parentName: tim_rig_:joint5 1
+      position: {x: 0.018442316, y: 0.0000070579763, z: -0.0068238163}
+      rotation: {x: -0.000000035390244, y: -0.0025113663, z: -0.000000026542684, w: 0.9999969}
+      scale: {x: 1.0000008, y: 1.0000006, z: 1.0000006}
+    - name: tim_rig_:joint7 1
+      parentName: tim_rig_:joint6 1
+      position: {x: 0.018594828, y: 0.000008200465, z: -0.005705856}
+      rotation: {x: 0.00000002254569, y: -0.0046415357, z: 0.00000002830066, w: 0.9999892}
+      scale: {x: 1.0000007, y: 1.0000004, z: 1.0000001}
+    - name: tim_rig_:joint8 1
+      parentName: tim_rig_:joint7 1
+      position: {x: 0.02168061, y: 0.000007874355, z: -0.00727977}
+      rotation: {x: -0.000000019030029, y: -0.022953177, z: -0.000000049523987, w: 0.9997366}
+      scale: {x: 1.0000006, y: 1.0000001, z: 1.0000001}
+    - name: tim_rig_:joint1 1
+      parentName: tim_rig_:RightWrist
+      position: {x: 0.058881998, y: 0.000513, z: -0.0241544}
+      rotation: {x: -0.014739125, y: -0.28849337, z: 0.011032811, w: 0.9573049}
+      scale: {x: 0.9999999, y: 1, z: 1.0000001}
+    - name: tim_rig_:joint2 1
+      parentName: tim_rig_:joint1 1
+      position: {x: 0.010423597, y: 0.0000051295547, z: -0.0075338483}
+      rotation: {x: -0.000000011175866, y: 0.058091793, z: -0.000000028870986, w: 0.9983113}
+      scale: {x: 1.0000001, y: 1, z: 0.99999964}
+    - name: tim_rig_:joint3 1
+      parentName: tim_rig_:joint2 1
+      position: {x: 0.013602079, y: 0.000005591718, z: -0.006875545}
+      rotation: {x: 0.000000006017812, y: 0.00000003725288, z: 0.000000024838737,
+        w: 1}
+      scale: {x: 1, y: 1.0000001, z: 0.9999999}
+    - name: tim_rig_:joint4 1
+      parentName: tim_rig_:joint3 1
+      position: {x: 0.015295276, y: 0.0000065921504, z: -0.008026537}
+      rotation: {x: -0, y: -0, z: -2.2418085e-16, w: 1}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.0000001}
+    - name: tim_rig_:GlobalControl
+      parentName: tim_rig_:TimGRP
+      position: {x: 0.0047501987, y: 0, z: -2.184227}
+      rotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: 6.123234e-17}
+      scale: {x: 5.3006454, y: 5.3006454, z: 5.3006454}
+    - name: tim_rig_:Props_GRP
+      parentName: ChildIdleAnim01(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tim_rig_:RemoteControl_Offset_GRP
+      parentName: tim_rig_:Props_GRP
+      position: {x: -3.5527136e-17, y: -7.105427e-17, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 5.3006454, y: 5.3006454, z: 5.3006454}
+    - name: tim_rig_:RemoteControl_CTRL
+      parentName: tim_rig_:RemoteControl_Offset_GRP
+      position: {x: -0.101165004, y: 0.23234764, z: -0.19867033}
+      rotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: 6.123234e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tim_rig_:RemoteControl_obj
+      parentName: tim_rig_:Props_GRP
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tim_rig_:RemoteControl_Joint
+      parentName: tim_rig_:Props_GRP
+      position: {x: -0.5362398, y: 1.2315925, z: -1.0530809}
+      rotation: {x: -0, y: -0, z: 7.4987995e-33, w: 1}
+      scale: {x: 5.3006454, y: 5.3006454, z: 5.3006454}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: tim_rig_:TimGRP
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 8e143a2f044724af9a9ad366e04a38f1,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

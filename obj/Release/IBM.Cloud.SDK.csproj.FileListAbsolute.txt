@@ -1,0 +1,2 @@
+C:\Users\Brian\Desktop\Charisma\obj\Release\IBM.Cloud.SDK.csprojAssemblyReference.cache
+C:\Users\Brian\Desktop\Charisma\obj\Release\IBM.Cloud.SDK.csproj.CoreCompileInputs.cache
