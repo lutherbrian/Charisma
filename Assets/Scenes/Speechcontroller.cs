@@ -28,7 +28,7 @@ public class Speechcontroller : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-       
+        Recording = false;
         ARControllerscript = ARController.GetComponent<HelloARController>();
         Permission.RequestUserPermission(Permission.Microphone);
 

@@ -3114,7 +3114,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: -204.29688, y: -157}
+  m_AnchoredPosition: {x: -244.3, y: -157}
   m_SizeDelta: {x: 150, y: 150}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &684947884
@@ -3716,7 +3716,6 @@ MonoBehaviour:
   ResultsField: {fileID: 1349561394}
   _iamApikey: _TFg-oOIRpevL7qcMyGrk0nFFG4Nq1SoJ98fLRyJPWSL
   _recognizeModel: 
-  _recordingRoutine: 0
 --- !u!4 &825158762
 Transform:
   m_ObjectHideFlags: 0
@@ -4227,7 +4226,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: -65.60156, y: -157}
+  m_AnchoredPosition: {x: -91.17, y: -157}
   m_SizeDelta: {x: 150, y: 150}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1185078907
