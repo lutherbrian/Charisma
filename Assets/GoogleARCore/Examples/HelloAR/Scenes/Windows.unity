@@ -5114,10 +5114,10 @@ RectTransform:
   m_Father: {fileID: 1994444910}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.42345724, y: 0}
-  m_AnchorMax: {x: 0.919, y: 0}
-  m_AnchoredPosition: {x: 4.580078, y: -94}
-  m_SizeDelta: {x: -0.8000488, y: 188.99}
+  m_AnchorMin: {x: 1, y: 0}
+  m_AnchorMax: {x: 1, y: 0}
+  m_AnchoredPosition: {x: -1062.56, y: -94}
+  m_SizeDelta: {x: 1466.2, y: 188.99}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1349561394
 MonoBehaviour:
@@ -6899,6 +6899,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: CanvasStartScreen
+      objectReference: {fileID: 0}
+    - target: {fileID: 7237883149495947114, guid: 791a087815a085f4eab329cd0d4a48f7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7237883149495947117, guid: 791a087815a085f4eab329cd0d4a48f7,
         type: 3}
