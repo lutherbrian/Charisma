@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{5B6EBC71-F11F-A992-AEFC-8B2B6A4D4E49}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Plugins/charisma-sdk-unity-0.02/Example/ExampleScript.cs">
+    <Files>
+      <File FileName="Assets/UI/RestartScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Plugins/charisma-sdk-unity-0.02/Example/ExampleScript.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Charisma" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Plugins" expanded="True">
+                <Node name="charisma-sdk-unity-0.02" expanded="True">
+                  <Node name="Example" expanded="True">
+                    <Node name="ExampleScript.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="UI" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e2c49057-12cb-488b-a713-ba27581ce402" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
